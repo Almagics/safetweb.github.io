@@ -1,0 +1,93 @@
+{
+
+    "safetyapp":"सुरक्षा ऐप",
+    "qoutintro":"यह एप्लिकेशन पर्मा पाइप कंपनी के कर्मचारियों के लिए है। व्यावसायिक सुरक्षा या काम में बाधा डालने वाली किसी भी चीज़ पर अलर्ट और रिपोर्ट भेजने में सहायता के लिए।",
+    "donthaveaccount":"यदि आपके पास खाता नहीं है, तो कृपया कंपनी में सुरक्षा अधिकारी को भेजें।",
+    "tologin":"लॉग इन करना जारी रखें",
+
+    "welcome":"स्वागत",
+"empcode":"कर्मचारी कोड",
+"password":"पासवर्ड",
+"login":"लॉग इन करें",
+"NeedanAccount":"एक खाता चाहिए ?",
+
+"reports":"सभी रिपोर्ट",
+"error":"एक गलती हुई है!",
+"Location":"स्थान :",
+"Date":"दिनांक :",
+
+
+"newreport":"नया रिपोर्ट",
+"Survey":"सर्वेक्षण",
+"SafetyTalks":"सुरक्षा वार्ता",
+"Policy":"नीति",
+"Profile":"प्रोफ़ाइल",
+"SignOut":"साइन आउट",
+"AddUsers":"उपयोगकर्ता जोड़ें",
+
+
+"back":"पीछे",
+"reportcreated":"रिपोर्ट बनाई गई है",
+"PleaseChoseSection":"कृपया एक अनुभाग चुनें",
+"PleaseChoseLocation":"कृपया एक स्थान चुनें",
+"EnterDiscription":"विवरण दर्ज करें",
+"EnterCorrectAction":"सही क्रिया दर्ज करें",
+"Send":"भेजना",
+
+"PleaseChoseSurevyTitle":"कृपया एक सर्वेक्षण शीर्षक चुनें",
+"StartSurvey":"सर्वेक्षण शुरू करें",
+"TalksCreated":"वार्ता बनाई गई है",
+"Interviewee":"साक्षात्कारदाता",
+"PersonInterviewed":"साक्षात्कार किया गया व्यक्ति",
+"Notes":"टिप्पणियाँ",
+"Department":"विभाग :",
+"Section":"खंड :",
+"Title":"शीर्षक :",
+"Info":"जानकारी:",
+"Name":"नाम",
+"create":"सृजन करना",
+"Answernumber":"उत्तर संख्या:",
+"savedsuccessfully":"सफलतापूर्वक बचाया",
+"YES":"हां",
+"No":"नहीं",
+"CompleteReport":"पूरी रिपोर्ट",
+"pleaseanswer":"कृपया जवाब दे",
+"Success":"सफलता!, रिपोर्ट पूरी हुई",
+"SendNow":"अब भेजें",
+"showreport":"रिपोर्ट दिखाओ",
+"Discription":"विवरण",
+"Action":"गतिविधि",
+"MEGA-THERM":"MEGA-THERM",
+"XTR-THERM":"XTR-THERM",
+"POURFOAM":"POUR FOAM",
+"BLASTING":"BLASTING",
+
+"PAINTING":"PAINTING",
+"STORE":"STORE",
+
+"WELDING":"WELDING",
+"CRANEFORKLIFT":"CRANE & FORKLIFT",
+
+"KITCHEN":"KITCHEN",
+"OTHER":"OTHER",
+
+"observations":"टिप्पणियों",
+"incidents":"घटनाओं",
+"inspections":"निरीक्षण",
+
+"improvements":"सुधार",
+"Remarks":"अन्य",
+"FORKLIFT":"फोर्कलिफ्ट",
+"PORTABLEGRINDER":"पोर्टेबल ग्राइंडर",
+"ManageLang":"भाषा: हिन्दी",
+"ChoseLang":"कृपया आवेदन की भाषा चुनें",
+
+"Arbic":"عربي",
+"English":"ُEnglish",
+"Hindi":"Hindi",
+"change":"परिवर्तन"
+
+
+
+
+}

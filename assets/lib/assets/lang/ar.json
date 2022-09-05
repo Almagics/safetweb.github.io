@@ -1,0 +1,105 @@
+{
+
+
+    
+"safetyapp":"برنامج السلامة المهنية",
+"qoutintro":"هذا التطبيق مخصص لموظفي شركة بيرما بايب. للمساعدة في إرسال التنبيهات والتقارير الخاصة بالسلامة المهنية أو أي شيء من شأنه تعطيل العمل.",
+"donthaveaccount":"اذا لم يكن لديك حساب للدخول الي التطبيق راسل قسم الدعم الفني بالشركة",
+"tologin":"الاستمرار لتسجيل الدخول",
+
+"welcome":"مرحبا !",
+"empcode":"كود الموظف",
+"password":"كلمة المرور",
+"login":"تسجيل دخول",
+"NeedanAccount":"تحتاج حساب ؟",
+
+
+"reports":"جميع الملاحظات",
+"error":"هناك خطأ ما اثناء التحميل",
+"Location":"الموقع :",
+"Date":"التاريخ :",
+
+
+"newreport":"تقرير جديد",
+"Survey":"استبيان جديد",
+"SafetyTalks":"محادثات السلامة",
+"Policy":"سياسة الشركة",
+"Profile":"الملف الشخصي",
+"SignOut":"تسجيل خروج",
+"AddUsers":"اضافة مستخدمين",
+
+"back":"رجوع",
+"reportcreated":"تم انشاء التقرير بنجاح",
+"PleaseChoseSection":"من فضلك اختر القسم",
+"PleaseChoseLocation":"من فضلك اختر موقع",
+"EnterDiscription":"ادخل الوصف",
+"EnterCorrectAction":"ادخل الاجراء المتخذ",
+"Send":"ارسال",
+
+"PleaseChoseSurevyTitle":"من فضلك اختر قسم الاستبيان",
+"StartSurvey":"بدأ الاستبيان",
+"TalksCreated":"تم الانشاء بنجاح",
+
+"Interviewee":"اسم الموظف",
+"PersonInterviewed":"المسئول",
+"Notes":"ملاحظات",
+
+"Department":"القسم :",
+"Section":"الادارة :",
+"Title":"المسمي الوظيفي",
+"Info":"المعلومات :",
+"Name":"الاسم",
+"create":"انشاء",
+
+
+"Answernumber":"اجابة رقم :",
+"savedsuccessfully":"تم الحفظ بنجاح",
+"YES":"نعم",
+"No":"لا",
+"CompleteReport":"اكمال الاتسبيان",
+"pleaseanswer":"من فضلك اجب",
+"Success":"تم اكمال الاستبيان بنجاح",
+"SendNow":"ارسال الان",
+"showreport":"عرض التقرير",
+"Discription":"الوصف",
+"Action":"الاجراء المتخذ",
+
+
+"MEGA-THERM":"الميجاثيرم",
+"XTR-THERM":"الچاكيت",
+"POURFOAM":"البور فوم",
+"BLASTING":"الرمالة",
+
+"PAINTING":"الدهان",
+"STORE":"المخزن",
+
+"WELDING":"ورشة اللحام",
+"CRANEFORKLIFT":"الرافعة",
+
+"KITCHEN":"المطبخ",
+"OTHER":"اخري",
+
+"observations":"الملاحظات",
+"incidents":"الحوادث",
+"inspections":"عمليات التفتيش",
+
+"improvements":"تحسينات",
+"Remarks":"غير ذلك",
+"FORKLIFT":"رافعة شوكية",
+"PORTABLEGRINDER":"مطحنة محمولة",
+"ManageLang":"لغة التطبيق",
+
+"ChoseLang":"من فضلك اختر لغة التطبيق",
+"Arbic":"عربي",
+"English":"ُEnglish",
+"Hindi":"Hindi",
+"change":"تغيير"
+
+
+
+
+
+
+
+
+}

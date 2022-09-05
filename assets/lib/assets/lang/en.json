@@ -1,0 +1,97 @@
+{
+
+"safetyapp":"Safety App",
+"qoutintro":"This application is for the employees of Perma Pipe Company. For assistance in sending alerts and reports on occupational safety or anything that would disrupt the work.",
+"donthaveaccount":"If you do not have an account, please write to the safety officer in the company.",
+"tologin":"Continue to login",
+
+"welcome":"Welcome",
+"empcode":"Employee Code",
+"password":"password",
+"login":"login",
+"NeedanAccount":"Need an Account ?",
+
+
+"reports":" All Reports",
+"error":"An error has occurred!",
+"Location":"Location :",
+"Date":"Date :",
+
+
+"newreport":"New Report",
+"Survey":"Survey",
+"SafetyTalks":"Safety Talks",
+"Policy":"Policy",
+"Profile":"Profile",
+"SignOut":"Sign Out",
+"AddUsers":"Add Users",
+
+
+"back":"Back",
+"reportcreated":"Report Has been Created",
+"PleaseChoseSection":"Please Chose a Section",
+"PleaseChoseLocation":"Please Chose a Location",
+"EnterDiscription":"Enter Discription",
+"EnterCorrectAction":"Enter Correct Action",
+"Send":"Send",
+
+"PleaseChoseSurevyTitle":"Please Chose a Surevy Title",
+"StartSurvey":"Start Survey",
+
+"TalksCreated":"Talks Has been Created",
+"Interviewee":"Interviewee",
+"PersonInterviewed":"Person Interviewed",
+"Notes":"Notes",
+
+"Department":"Department :",
+"Section":"Section :",
+"Title":"Title :",
+"Info":"Info",
+"Name":"Name",
+"create":"Create",
+"Answernumber":"Answer number :",
+"savedsuccessfully":"saved successfully",
+"YES":"YES",
+"No":"No",
+"CompleteReport":"Complete Report",
+"pleaseanswer":"please answer",
+"Success":"Success!, report completed",
+"SendNow":"Send Now!",
+"showreport":"Show Report",
+"Discription":"Discription",
+"Action":"Action",
+
+
+"MEGA-THERM":"MEGA-THERM",
+"XTR-THERM":"XTR-THERM",
+"POURFOAM":"POUR FOAM",
+"BLASTING":"BLASTING",
+
+"PAINTING":"PAINTING",
+"STORE":"STORE",
+
+"WELDING":"WELDING",
+"CRANEFORKLIFT":"CRANE & FORKLIFT",
+
+"KITCHEN":"KITCHEN",
+"OTHER":"OTHER",
+"observations":"observations",
+"incidents":"incidents",
+"inspections":"inspections",
+
+"improvements":"improvements",
+"Remarks":"Remarks",
+"FORKLIFT":"FORKLIFT",
+"PORTABLEGRINDER":"PORTABLE GRINDER",
+"ManageLang":"language",
+"ChoseLang":" choose the language ",
+
+
+"Arbic":"عربي",
+"English":"ُEnglish",
+"Hindi":"Hindi",
+"change":"Change"
+
+
+
+}
